@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+Electrical+Engineering+%40+IIT+Indore;Full-Stack+Developer+%7C+ML%2FAI+Enthusiast;Building+with+React%2C+Node.js+%26+PyTorch;Member%2C+Quantum+Computing+Club+%40+IIT+Indore" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish_ji/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kpji?tab=activity)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krizzh)
 
 </div>
 
@@ -14,7 +17,7 @@
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
 - 💻 Focused on **full-stack web development** and **applied ML**, building AI-powered tools end to end
-- 🧩 Active on **LeetCode**, **GFG** and **CodeChef**, sharpening DSA and problem-solving
+- 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), and [**CodeChef**](https://www.codechef.com/users/krizzh), sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and a resume for upcoming internship opportunities.
 
 ---
@@ -49,6 +52,24 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 
 ---
 
+## 🧠 DSA Stats
+
+<div align="center">
+
+<a href="https://leetcode.com/u/krish_ji/"><img src="https://leetcard.jacoblin.cool/krish_ji?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" /></a>
+
+<a href="https://www.codechef.com/users/krizzh"><img src="https://codechef-readme-stats.onrender.com/krizzh?v=1" alt="CodeChef Stats" /></a>
+
+<a href="https://www.geeksforgeeks.org/profile/kpji?tab=activity">
+<img src="https://img.shields.io/badge/GFG_Coding_Score-139-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Coding Score" />
+<img src="https://img.shields.io/badge/Problems_Solved-43-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Problems Solved" />
+<img src="https://img.shields.io/badge/Institute_Rank-716-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Institute Rank" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -80,7 +101,7 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 
 ---
 
-
+<div align="center">
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/krish-prasad-29469633b/)
 
