@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
 - 💻 Focused on **full-stack web development** and **applied ML**, building AI-powered tools end to end
-- 🧩 Active on **LeetCode** and **CodeChef**, sharpening DSA and problem-solving
+- 🧩 Active on **LeetCode**, **GFG** and **CodeChef**, sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and a resume for upcoming internship opportunities.
 
 ---
