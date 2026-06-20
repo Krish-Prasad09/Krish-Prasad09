@@ -4,10 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+Electrical+Engineering+%40+IIT+Indore;Full-Stack+Developer+%7C+ML%2FAI+Enthusiast;Building+with+React%2C+Node.js+%26+PyTorch;Member%2C+Quantum+Computing+Club+%40+IIT+Indore" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-drab-22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish_ji/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kpji?tab=activity)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krizzh)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Krizzh9306)
 
 </div>
 
@@ -17,7 +19,8 @@
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
 - 💻 Focused on **full-stack web development** and **applied ML**, building AI-powered tools end to end
-- 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), and [**CodeChef**](https://www.codechef.com/users/krizzh), sharpening DSA and problem-solving
+- 🌐 Portfolio: [portfolio-eta-drab-22.vercel.app](https://portfolio-eta-drab-22.vercel.app/)
+- 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and a resume for upcoming internship opportunities.
 
 ---
@@ -59,6 +62,8 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 <a href="https://leetcode.com/u/krish_ji/"><img src="https://leetcard.jacoblin.cool/krish_ji?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" /></a>
 
 <a href="https://www.codechef.com/users/krizzh"><img src="https://codechef-readme-stats.onrender.com/krizzh?v=1" alt="CodeChef Stats" /></a>
+
+<a href="https://codeforces.com/profile/Krizzh9306"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Krizzh9306" alt="Codeforces Stats" /></a>
 
 <a href="https://www.geeksforgeeks.org/profile/kpji?tab=activity">
 <img src="https://img.shields.io/badge/GFG_Coding_Score-139-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Coding Score" />
