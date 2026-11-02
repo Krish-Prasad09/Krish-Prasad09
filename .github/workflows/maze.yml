@@ -1,0 +1,38 @@
+name: Generate contribution maze
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_maze.py
+      - .github/workflows/maze.yml
+
+permissions:
+  contents: write
+
+jobs:
+  maze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build maze
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_maze.py
+
+      - name: Commit maze
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-maze.svg
+          git diff --cached --quiet || git commit -m "update contribution maze"
+          git push
