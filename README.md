@@ -6,46 +6,9 @@
 
 <br/>
 
-<pre>
-                                 .:;-~-;:,.
-                            ,-+x#xxxxx*****++~:
-                          ,=x##**#@@@%%xxxx####*~.
-                        ,=+*x#%%@@@@@@%%%#%@@@@@%*;
-                       ,**xx#@@@@@@%%%%@@@@@@@@@@%%+
-                      .+#*x##%@#x*+===+*x##%%@@@@@%~.
-                      =@%%%%+~=*+=~~~~~=+++**#@@@%%-
-                      #@%@@*-:::-~~-;;-~=+++**#@@@@x
-                      %@@x===+**+~~~~+*#%%%##*+x@@@*
-                      +@%-=++*#%#*~~*x###xxx**=+@@%.
-                      ,%x;-+*x%%%=,:*#%%%%%%x+==@@+-
-                      ;x+:,.:-~;,. :+***++=~~~~-%*=~
-                      ,++:    ,;. .-=+**~--~~~~=xx+,                    ,
-                       =+;:::-*~;+**##x**=====~*+=~                    ,,
-                       -=~;--=#-~+xx####%x**++=x=:                     .:.
-                        .:--~*%#=:,:;=+#%%x*+===                        ,.
-                          -~~==;:;~=+***xxx*++=                        .,
-                           -~-;:;-=+++**xxxxx*:                         ,
-                            -*+-;-==+*x#%@%#xx;                         ,
-   .,.                      :+*#%%@@@@@@%##xxx*~*,                     .,
-                           :;===+*xx###xxxxx**+:%%=.
-                          ~x:=~~==++*********+:~@@@%+:.
-                      .;=#%x.*======+++*+**x=,;%@@@@@@%#*~;.
-                  ,-+#%%%%@x ;#*++++++*****;.;*@@@@@@@@@@@@%x=-,
-              .;=#%%%%%%%%%x  ~#x***++*++=..:~@@@@@@@@@@@@@@@@%%#x+-,
-         .:-=x#%%%@@@@%%%%%x :;-+**++=~~-;::;x@@@@@@@@@@@@@@@@@@@%%%=.
-        :*#%%%%%%%%%%%%%%%%x:=~-;;~+~;;;;---=@@@@@@@@@@@@@@@%%@%%%#-
-         ,=#%%%%%%%%%%%%%%%#=--;;:..:::;;;;;x%@@@%%%%%@@@%%%%%%%%+,
-           :+#%%%%%%%%%%%%%%+;.  .  :;;:,,,~%@@%%%%%%@@%%%%%%%%*:
-             :+#%%%%%%%%%%%@+-     ,;:,   ,x%@@%%%%%%@%%%%%%#+:
-               ,~*%%%%%%%%%@x~.    :;.    =%%%%%%%%%@%%%%%x~,
-                  ,~*#%%%%%@#=,  .,,.    ;#%@@%%%%%@%%#*~,
-                     .:~*#%@@+; :-.     .*%@@%%%#%%*~:.
-                          .:--:,;:      -x#x*+~-:,
-</pre>
+<img src="https://raw.githubusercontent.com/Krish-Prasad09/Krish-Prasad09/main/assets/github-maze.svg" alt="GitHub contribution maze" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=Krish-Prasad09&label=Profile+views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-drab-22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
@@ -126,23 +89,6 @@ A full-stack AI career platform with a TypeScript + React.js frontend and Node.j
 | [IITISOC-AmpaNova](https://github.com/Krish-Prasad09/IITISOC-AmpaNova) | Mixed-signal function generator & analog signal-processing system — filtering, modulation, differential equation solver circuits, and ADC↔DAC interfacing, simulated in LTspice | `LTspice` `Analog Circuit Design` |
 | [JavaScript-Practice-Projects](https://github.com/Krish-Prasad09/JavaScript-Practice-Projects) | Tic-Tac-Toe, Rock-Paper-Scissors, and a live-rate Currency Converter, each deployed on Netlify | `HTML` `CSS` `JavaScript` |
 | [Frontend-Practice-Projects](https://github.com/Krish-Prasad09/Frontend-Practice-Projects) | Weather App, To-Do List, Quiz App, Quote Generator, Notes App, and Age Calculator, each deployed on Netlify | `HTML` `CSS` `JavaScript` |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-Prasad09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Prasad09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Krish-Prasad09&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Prasad09&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krish-Prasad09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies" />
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
