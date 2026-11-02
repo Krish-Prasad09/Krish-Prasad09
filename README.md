@@ -1,8 +1,86 @@
 <div align="center">
 
-# Hi, I'm Krish Prasad 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Krish%20Prasad&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=B.Tech%20EE%20%40%20IIT%20Indore&descSize=20&descAlignY=62" alt="header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+Electrical+Engineering+%40+IIT+Indore;Full-Stack+Developer+%7C+ML%2FAI+Enthusiast;Building+with+React%2C+Node.js+%26+PyTorch;Member%2C+Quantum+Computing+Club+%40+IIT+Indore" alt="Typing SVG" />
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+
+<pre>
+               :;--;;------~-~~~-----;;;;:,.
+               .,:::--~~=======~~~~~----;;;;:
+              ,::::;~=+**++xx+===~~-~~~----;;:,
+              ::;-~+*xx*-+x~,:,,::;:::-=~~---;;;:.
+             .;=*x+=**+~.,.  ..   .,,, .-~=~--;;;;,
+            ,~++;  ;-,                    ,-==~---;,
+      ,,...:~+~:   .     ,:;;::.            ~++-;~-;.
+     :;-;;-==:...      :-~+*****+=~;,       ,**--~~-:
+      .:;-~=-;        :=+**xxxx****+=~:,   .=*+;~=~-;,
+      ,;;-~=:,      ,-=+**xxxxxxxxx*+=~-:  .;-;~++=~-;
+      :;;~==     :==~~--;-=+xxxxx**==~---:     .,,~~-;,
+     ,;;-~=~    ~**++====~-~+**++~;::::,:~        -=~-
+     ..,,,,;: .~xxx*=~=--*--~+**~;:,:-:;~=:       ;~~;
+        .,-+*~,=xxx***+=====+xx*=--::~;-~+;:,~++;  ..
+       ,=++***.+xxxxxxxx*x**xxxx+========*~-~+++=;
+        -~=+*~=~***xxx*xxx*xxxxxx*+++++==*+=~===-,
+       .:;-+**+++++*+++*x**~::~-:-+++==~=+=====-::;,
+          ,~*xx==++++++*+~=--~==;:;;~~--~+*====~~==~;, ..
+           .:-;.~=======::~xxx###*:,.:;-~=+====+++++=~-;,
+            ,,;;-~====~~==~~~~=~-;;-;;---~===+++++++=~-;,
+           :;;;--;---~~~~~===~-~~~-;;;;;-====++**+++=~-;.
+          ,;;;---;-;,,,;~======~~~-;,,,~===+++***++==~-:
+          ,:;;;;;--;;    ....       ;-~===+++****++=~-;,
+                ,~--;:           .,;-;~=====+***+++=~-;.
+             =+~--~--;.      .,,,;:;-----;-~-.
+            =*x+=-------;;;;::::::;;--~-;;;--
+         --~****x*=-;;;---~~---;;;:,. *+=-~=-
+      ,;~~=+=++=*x*xx*+~-;;;;;:,,, .  =xx+**+-,.
+      ,;-~~==+*+***+x*x*#x*=~-;:. ..  -x***===+~~:.
+       ,;,;~=====++**xx**xxx*#x+:,;: .~++*++=-;--;:
+        . :;;-~===~*=*+*+xxxx*,+*,,. ;=+=*===-::..
+           .;----~=+==++**=+***+=;;:~++~=+~~;;:.
+            ,::-===~+=*===+=++**-;:;=++~=~-;-;.
+             ,:;;:-~=~~-=++=~=+++ ;--;--~-;:,.
+              ...;;--~-~-~-==~=,:;~---~-:;,,
+                 .,,,::;;--~---~:~--;;:...
+</pre>
+
+</td>
+<td valign="top">
+
+<pre>
+<b>krish@iit-indore</b>:~$ whoami
+Krish Prasad
+
+<b>krish@iit-indore</b>:~$ cat role.txt
+B.Tech, Electrical Engineering
+Full-Stack Dev  |  ML / AI
+
+<b>krish@iit-indore</b>:~$ cat stack.txt
+React  Node.js  Python  PyTorch
+C++  TypeScript  MongoDB  Docker
+
+<b>krish@iit-indore</b>:~$ cat clubs.txt
+Quantum Computing Club @ IIT Indore
+
+<b>krish@iit-indore</b>:~$ cat status.txt
+Polishing projects + resume
+Open to internships
+
+<b>krish@iit-indore</b>:~$ _
+</pre>
+
+</td>
+</tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=Krish-Prasad09&label=Profile+views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-drab-22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
@@ -13,7 +91,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
 ## 🚀 About Me
 
@@ -23,27 +101,58 @@
 - 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and a resume for upcoming internship opportunities.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
 ## 🌟 Featured Projects
 
 ### 📈 [Self-Learning PMS/AIF Statement Parser](https://github.com/Krish-Prasad09/StatementParser)
-An autonomous financial statement ingestion and multi-custodian portfolio consolidation engine for SEBI-registered PMS and AIF funds. Features an automated IMAP email pipeline with `BODY.PEEK` idempotency to ingest and pre-classify statements across multi-format documents (PDF, multi-sheet Excel, sectioned CSV). Implements a one-shot learning architecture leveraging the Gemini API to synthesize declarative JSON templates once, executing deterministic sub-50ms parsing thereafter with zero ongoing AI calls across 30+ statement layouts. Integrates a 17-rule Financial Safety Gate enforcing double-entry roll-forwards, row-level arithmetic, and ISO 6166 Mod-10 Luhn ISIN verification to fail closed into a quarantine operations queue for human review and layout drift sign-off. Aggregates multi-custodian portfolios cross-institution by ISIN and PAN with strict INR/USD currency isolation, backed by ephemeral password-protected PDF decryption, Neon Cloud PostgreSQL persistence, and an interactive Streamlit operations command center.
+
+An autonomous financial statement ingestion and multi-custodian portfolio consolidation engine for **SEBI-registered PMS and AIF funds**. Solves the multi-format wealth data fragmentation problem by combining **one-shot LLM template synthesis** with **sub-50ms deterministic Python execution**, eliminating ongoing AI token costs and hallucination risks.
+
+**Key Highlights:**
+- ⚡ **One-Shot Learning Architecture:** Leverages **Gemini API** once on unseen statement layouts to synthesize declarative JSON parsing schemas, executing deterministic **sub-50ms parsing** with **zero AI calls** thereafter across **30+ statement formats** (PDF, multi-sheet Excel, and sectioned CSV).
+- 🛡️ **17-Rule Financial Safety Gate:** Enforces double-entry roll-forward reconciliations, row-level arithmetic (`Quantity * Price == Market Value`), and **ISO 6166 Mod-10 Luhn checksum verification** on stock ISINs to strictly fail closed against data corruption.
+- 💼 **Multi-Custodian Portfolio Consolidator:** Unifies client wealth across fragmented wealth managers (Kotak, ASK, ICICI) joined by **12-character ISIN** and **PAN**, with absolute **INR/USD currency isolation** and dedicated unlisted AIF alternative buckets.
+- 🔄 **Layout Drift Interception:** Automatically flags modified table geometries or renamed columns, creates candidate `_v2` schemas with `approved: false`, and locks statements in a **Quarantine Review Queue** awaiting one-click human auditor sign-off.
+- 📬 **Automated Mailbox Ingestion & Security:** Integrates an **IMAP SSL** email poller with `BODY.PEEK` idempotency to pre-classify statements from factsheets/invoices, featuring ephemeral in-memory decryption for password-locked PDFs and **Neon Cloud PostgreSQL** persistence.
 
 `Python 3.11` `Gemini API` `Streamlit` `Neon PostgreSQL` `Pydantic v2` `pdfplumber` `openpyxl` `IMAP SSL` `Pandas` `Docker`
 
-### 🎤 [EmoSense — AI Interview Analyser](https://github.com/Krish-Prasad09/EmoSense-Interview-Analyser)
-*Under Dr. Vivek Kanhagad, Assistant Professor, IIT Indore (Feb–Apr 2026)*
-Fine-tuned `facebook/wav2vec2-base` on the CREMA-D dataset (7,442 clips, 91 actors) for 6-class speech emotion recognition, reaching 76% accuracy versus a 40% LSTM baseline. Built a full-stack Flask app supporting mic recording and file upload, processing WebM/WAV/MP3 through a sliding 4-second window pipeline with a per-segment emotion timeline. Integrated OpenAI Whisper for transcription and a rule-based scoring engine covering filler words, grammar, pace (WPM), clarity, and vocabulary diversity.
+### 🎤 [EmoSense — AI Interview Analyser & Multimodal Speech Coach](https://github.com/Krish-Prasad09/EmoSense-Interview-Analyser)
+*Machine Learning in Signal Processing Course Project · Under Dr. Vivek Kanhagad, IIT Indore (Feb–Apr 2026)*
 
-`Flask` `PyTorch` `Wav2Vec2` `OpenAI Whisper` `Docker` · 🔗 [Live Demo](https://huggingface.co/spaces/Krizzh/EmoSense-Interview-Analyser)
+An AI-powered interview communication and vocal delivery coach that evaluates **how** a candidate speaks, not just what they say. Ingests microphone audio or uploaded files, performing dual-stream acoustic and linguistic evaluation with zero database overhead.
 
-### 📈 [RankUp- Smart Learning Assistant](https://github.com/Krish-Prasad09/RankUp-LearningAssistant)
-A full-stack MERN LMS that automates document summarising, flashcard generation, and multiplayer real-time quizzing from uploaded PDFs. Uses the Gemini API for structured JSON extraction, with a gamified, responsive UI built in React.js and Tailwind CSS featuring state-driven dashboards and performance tracking.
+**Key Highlights:**
+- 🎯 **Acoustic Emotion Recognition (Wav2Vec2):** Fine-tuned `facebook/wav2vec2-base` on the **CREMA-D dataset** (7,442 clips, 91 actors) across 6 emotion classes, achieving **80% test accuracy** — nearly doubling the **43% baseline** of traditional LSTM models.
+- 🧠 **Multimodal Late-Fusion Architecture:** Ensembles acoustic prosody from **Wav2Vec2** with semantic sentiment from **DistilRoBERTa** on the transcribed text, eliminating false vocal tone classifications through dual-modality probability averaging.
+- ⏱️ **Active-Speaking Pace & Linguistic Engine:** Leverages **OpenAI Whisper** chunk timestamps to compute delivery pace (WPM) strictly across active speech segments (excluding silences & interviewer turns), paired with multi-pass filler word detection, spoken grammar validation, and length-normalized CTTR vocabulary scoring.
+- 📊 **Temporal Emotion Timeline & Canvas Visualizer:** Generates an emotion evolution timeline using a 4-second sliding window sampled every 10 seconds, rendered dynamically via an interactive, zero-dependency **HTML5 Canvas** stacked-bar visualizer.
+- 🛠️ **In-Memory Audio Transcoding & Cloud Deployment:** Built a resilient **FFmpeg + Torchaudio** bridge resolving browser WebM/Opus codec limitations to 16 kHz Mono PCM WAV; containerized with **Docker** and deployed on **Hugging Face Spaces** with weights hosted on the **Hugging Face Hub**.
 
-`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB Atlas` `Google OAuth 2.0` `JWT` `Gemini API` `Socket.io`· 🔗 [Live Demo](https://rank-up-learning-assistant.vercel.app/)
+`Python 3.10` `Flask` `PyTorch` `Torchaudio` `Wav2Vec2` `OpenAI Whisper` `DistilRoBERTa` `Transformers` `Docker` `FFmpeg` `HTML5 Canvas`  
+🔗 [Live Demo](https://huggingface.co/spaces/Krizzh/EmoSense-Interview-Analyser) 
 
----
+### 🎓 [RankUp — Smart AI Learning Assistant & Multiplayer Study Arena](https://rank-up-learning-assistant.vercel.app/)
+
+A full-stack **MERN** academic platform that transforms dense study notes into interactive learning tools and real-time multiplayer battles. Features in-memory streaming text parsing that supports **150+ page PDFs** with zero database bloat (>95% storage reduction).
+
+**Key Highlights:**
+- ⚡ **High-Capacity AI Study Tools:** Generates structured summaries, active-recall flashcard decks, and contextual Q&A chat (supporting document-only vs. web-grounded modes).
+- 🎮 **Live Multiplayer Quiz Arena:** Built with **Socket.io** for real-time competitive study battles featuring server-authoritative countdowns, instant host controls, and live dynamic leaderboards.
+- 📂 **Cross-Folder Quiz Engine:** Synthesizes custom exams across multiple document folders, paired with an AI diagnostic engine that analyzes concept gaps from incorrect answers.
+- 🖨️ **Vector PDF Exports & 3D WebGL:** Generates downloadable, print-ready study sheets with **PDFKit** and features interactive **Three.js** 3D planet visualizations.
+- 📅 **Gamified Productivity:** Color-coded study task calendar, daily learning streak tracking, and secure **Google OAuth 2.0 + JWT** sessions.
+
+`React` `Vite` `Tailwind CSS` `Node.js` `Express` `MongoDB Atlas` `Socket.io` `Three.js` `Groq API` `PDFKit` `Google OAuth 2.0` `JWT`
+🔗 [Live Demo](https://rank-up-learning-assistant.vercel.app/) 
+
+### 🤖 [HireU — Career Assistant](https://github.com/Krish-Prasad09/HireU-CareerAssistant)
+A full-stack AI career platform with a TypeScript + React.js frontend and Node.js/Express.js backend, supporting resume analysis, job-role matching, and AI-generated interview question sets. Uses the Gemini API with role-aware prompt templates for personalised career insights, ATS-optimised resume suggestions, and an **IIT-style** LaTeX resume builder. Implements Google OAuth 2.0 + JWT session management with role-based access, with Razorpay wired in for premium subscriptions. Frontend deployed on Vercel, backend on Render.
+
+`React 19` `TypeScript` `Vite` `Tailwind CSS v4` `Node.js` `Express 5` `MongoDB Atlas` `Google OAuth 2.0` `JWT` `Gemini API` `Razorpay` · 🔗 [Live App](https://hire-u-career-assistant.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
 ## 🧩 Other Projects
 
@@ -53,7 +162,24 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 | [JavaScript-Practice-Projects](https://github.com/Krish-Prasad09/JavaScript-Practice-Projects) | Tic-Tac-Toe, Rock-Paper-Scissors, and a live-rate Currency Converter, each deployed on Netlify | `HTML` `CSS` `JavaScript` |
 | [Frontend-Practice-Projects](https://github.com/Krish-Prasad09/Frontend-Practice-Projects) | Weather App, To-Do List, Quiz App, Quote Generator, Notes App, and Age Calculator, each deployed on Netlify | `HTML` `CSS` `JavaScript` |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krish-Prasad09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Prasad09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="170" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=Krish-Prasad09&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Prasad09&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Krish-Prasad09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="Trophies" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
 ## 🧠 DSA Stats
 
@@ -72,7 +198,7 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
 ## 🛠️ Tech Stack
 
@@ -89,8 +215,8 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Databases**
 
@@ -115,9 +241,10 @@ A full-stack MERN LMS that automates document summarising, flashcard generation,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 <div align="center">
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/krish-prasad-29469633b/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
