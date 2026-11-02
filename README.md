@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
-- 💻 Focused on **full-stack web development** and **applied ML**, building AI-powered tools end to end for solving real-world problems using tech.
+- 💻 Focused on **full-stack web development** and **applied ML**, building tools to solve real-world problems using technology.
 - 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and resume for upcoming internship opportunities.
 
@@ -53,7 +53,7 @@ An autonomous financial statement ingestion and multi-custodian portfolio consol
 - 📬 **Automated Mailbox Ingestion & Security:** Integrates an **IMAP SSL** email poller with `BODY.PEEK` idempotency to pre-classify statements from factsheets/invoices, featuring ephemeral in-memory decryption for password-locked PDFs and **Neon Cloud PostgreSQL** persistence.
 
 `Python 3.11` `Gemini API` `Streamlit` `Neon PostgreSQL` `Pydantic v2` `pdfplumber` `openpyxl` `IMAP SSL` `Pandas` `Docker`
-🔗 [Video Demo](https://drive.google.com/file/d/1iaSl2R2ejnGPGycQRoGFrllXRsy7RDth/view?usp=drive_link).
+🔗[Video Demo](https://drive.google.com/file/d/1iaSl2R2ejnGPGycQRoGFrllXRsy7RDth/view?usp=drive_link).
 
 <br/>
 
