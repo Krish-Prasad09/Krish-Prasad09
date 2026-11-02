@@ -98,7 +98,7 @@ A full-stack AI career platform with a TypeScript + React.js frontend and Node.j
 
 <a href="https://leetcode.com/u/krish_ji/"><img src="https://leetcard.jacoblin.cool/krish_ji?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" /></a>
 
-<a href="https://www.codechef.com/users/krizzh"><img src="https://codechef-readme-stats.onrender.com/krizzh?v=1" alt="CodeChef Stats" /></a>
+<a href="https://www.codechef.com/users/krizzh"><img src="https://img.shields.io/badge/CodeChef-krizzh-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 <a href="https://codeforces.com/profile/Krizzh9306"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=Krizzh9306" alt="Codeforces Stats" /></a>
 
