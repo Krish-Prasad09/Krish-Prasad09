@@ -12,7 +12,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eta-drab-22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish_ji/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kpji?tab=activity)
@@ -30,36 +29,45 @@
 <td valign="middle">
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
+
+<br/>
+
 - 💻 Focused on **full-stack web development** and **applied ML**, building tools to solve real-world problems using technology.
+
+<br/>
+
 - 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
+
+<br/>
+
 - 🛠️ Currently polishing projects and resume for upcoming internship opportunities.
 
 </td>
 <td align="center" valign="middle">
 
 <pre>
-                    .::-:..                     
-               :===++++++***+=-:                
-             -+===+=::--==+=----=.              
-           :+++-::::::---:-::::::--:            
-          :===-=--=+*###*+===-::::-=            
-         .-:::=#@%##%%%%%##***=:::-.            
-         .::-**#***#%%#*+====+*+::::            
-          ::##++=:-=#%=---===**#-:-.            
-          *-@@%#+=+%@@+===++*##%=-*=            
-          ++@@@@@%@@@%**+#%%%%%%+=+:            
-          -*#@@%#+@*==--=+*####*+#=             
-           -=%%#--+*##*++--++*#*:.              
-             =##*%@%#*++++=++**:                
-              .+#@@@#**++=--==*.                
-               -=------:::--==++-               
-              .**++===--=====++%+::             
-            .-=%+***++++==+==+%#::::::..        
-       ..:---:=@+=++++++++==#@%-:::::::::-::..  
-  ..:------:::=@@*-==+++++*@@%=::::::::::-------
---------::::::=%##%#*+#%%%%#%*:::::::::---------
-------------::-#%%@@@@@@@@%@%-:::-----:---------
-----------::::-#@@@@@@@@@@@@*-::-----:---------.
+                    .,:;;,.                     
+               :~~==++=++***=~-:                
+            .;+=~=+~;;-;==+=~~~~~,              
+           ;+++~:;;;;;;--;~;;;;;---;            
+          :~==~=--=*xxxxx+==~~;;;;-=            
+         .;-;;~X%#xXX####Xxx**=;;;;,            
+         .;;~*xxx**XX#X*+=~==+*+;;;,            
+          :;#x++=;-~X#=~-~~==*xX~:~.            
+          *-@%#x+=+#@%=====+*xX#=~x-            
+          ==%@@@@X%@@X**+x%#####==+:            
+          ;*X%%#x=%x==--==*xxXXx+x-             
+           ;~#X#-~+xxxx++--++xx*:.              
+             ~xx*#@#xx+=+===+**:                
+              ,+x%@%Xx*++=~~~=+.                
+               ;=-~~---;;;-~===+-               
+              ,***+==~~~~~===+=#+;:.            
+            ,;=X+***++++==+==+##;;;;;:,,        
+       .,:---;~@+~+++++=====x@#-;;;;;-;;;-;:,.  
+  .,;------;;;=@@+-~==++++*%@#=;;;;;;;;;------~~
+~~-------;--;;=%*X#x*+x###XX#x;;;;----;---------
+------------;;~X##%%@%@@%##%#-;;;-----;---~~~~~~
+----------;-;;;X@@@@@@%%@@@@+-;------;-~~~~----,
 </pre>
 
 </td>
