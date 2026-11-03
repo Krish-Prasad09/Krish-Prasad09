@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Krish%20Prasad&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=B.Tech%20EE%20%40%20IIT%20Indore&descSize=20&descAlignY=62" alt="header" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Krish-Prasad09/Krish-Prasad09/main/assets/ascii-portrait.svg?v=1" alt="Krish Prasad ASCII portrait" width="560" />
+<img src="https://raw.githubusercontent.com/Krish-Prasad09/Krish-Prasad09/main/assets/ascii-portrait.png?v=2" alt="Krish Prasad ASCII portrait" width="560" />
 
 <br/><br/>
 
