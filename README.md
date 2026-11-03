@@ -2,58 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Krish%20Prasad&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=B.Tech%20EE%20%40%20IIT%20Indore&descSize=20&descAlignY=62" alt="header" width="100%" />
 
-<pre>
-                                ..,:;--~~~~~-;:,,.                                  
-                          ,-~++*xx*+==++++==++====+++~;,.                           
-                       .;*xxX#%#x*xXXXXxxXx**++++***xXXx*=;.                        
-                     :~*xX#XXx**x*X#####X##xxxx+*xXXXXXXXXx*=:.                     
-                   ;+****xxXXXX#######%####XX##xX############+~:                    
-                 .=**++**x#####################X############Xxxx+,                  
-                 -+***xx*x%#######XXXxxx**xX##################XXx-.                 
-                ~*XX++xxxxX%##Xx*++=~~------~+*xxxxXXX%#######%x=~.                 
-               ~X##XxxXXXx~~=***+=~--;;;;::;;;----~=++X##XXXXxXX-.                  
-               x##X###XXx~: ..:~~--;:....  .,::;;;--~=+X###X#Xx#x,                  
-              .%#####%%x~,       ,:;:.      .,:,,;---~~+#%#####X#-                  
-              :%###%%+---;-~=++=~;;:,::;~=+*XXX##Xxx*+=~=x%###XX#:                  
-              .####%=~++++xxX##Xx*++-~==*xxXXXxx***+**+=-=#%##X#~                   
-               -%#%X;-~=+***XX##XXx+,:=*xXXX#X##XXXx+=~~-=#%#%X*.                   
-               ,*%#X;;~+*xXX#####X=, .+xXX##X##XXXXXx*+~~~####**+                   
-               -X##x;:::;=+xXXX*~,   ,=++*xxxxxx*++~~~~~~-X##*=xx                   
-               ;XX#*-:.    ...       :~++++=-;,..  .:;----#XXx*x+                   
-               .xXXx-;, .   :~*+.  .;~~~==+Xx~,  .;;;--~~+#xXXxx:                   
-                =XX#+~-;;;-=*xX==XX***xX##Xx**=-;;---~~==XXxxxX=                    
-                ;XxXx~~~===+X#*:;~+XXX###%%#XXX+=========##+=+=                     
-                .+xXX===+==X%%*xX############%#%x**++++==#%+;:                      
-                  .,;+==+=+##%%%x=,: ,.,~=*x%####x*++===*#;                         
-                     =+====xXx=:::,:;;-=xxXx***xx*++===+x-                          
-                      +*+===~-;::;=***xx*+=+******+++++*;                           
-                       -*+=~-;:.,:;~=++++==++**xxxxxx**+.                           
-                         =xx*+;....:;;-~=+**xX####Xxxx**,                           
-                         ;**X##XxxxX#XX##########Xxx****==+;                        
-                         ,*++*X##%############XXx*****++X~*%X;                      
-                        ~++====++*xXXXXXXXxxx******++++++:+%#X*-                    
-                      ,X%;+===~~==++*+**********++++++**:;####XXX=:                 
-                    ;*###,x+=~~~~==++++****++++++++*xX=,:*%####XXXXx*=-:.           
-               ,;~+XXX### =#x=~~~~~====++++++++++**Xx:.:=%#####XXXXXXXXXXX*=-:      
-          ,;=*X#XxxxXX#%#..*%Xx*+====+++*********xX=.,;~%######XXXXXX##X##XXXXX*=-:.
-     .;~*XXXXXXXxXXXXXX##. .x#XXXxx************xx+, ,;-X########XXXXXX##X#XXXXXXXX*=
- .;=*xXXXXX#XXxXXXXXXX###   .+###XXxxx********x+:  ,;-*%#####XXXXXX#####XXXXXXXXXX+-
-.-+xXXXXX#X####XXXXXXXX##  :--=X###xxx*++++++=~~~-,;;+%####XXXXXX#####XXXXXXXXXXX*~,
- ,~*XXX#XXXXXX##XXXXXXX##.~===~;;=*xx**+=~----~===+-~#####XXXXxxXXXXXXXXXXXXXXXX*~: 
-  :~*XXXXXXXXXXXXxxxXXX#X~~~=~~~~--;~**~;;;;;-~=====x####XXXXxxxxxxxXX###XXXXXX*~:  
-   :~*XXXxxXxxxxxxxxXXX##=~-----~-;: .~:,:;;-~~----=#XXXXXXXXxxxxxxxx#%#XXXXXx*~:   
-    ,-+xXXxxxxxxxxxxxxX#%+~;,::  ,:.  :;;----;;::::XXX##XXXXxxxxxxxx#%#Xxxxxx+~:    
-     .-=xXxxxxxxxxxxxxX#%+~-.        ,-----;,     +XXXX#XXXxxx**xxx#%#xxxxxx=-,     
-       ;~*xxxxxxxxxxxxX#%*~~:       .----;::     ~XXXXXXXXXxxx***x#%Xxxxxx*=;.      
-        ,-+xxxXXxxxxxxxX%X=~;       -~~~-,,;    -xXXXXXXXXXxxx**x#%Xxxxxx+~:        
-          :~+xXXxxxxxxxX#%+=~.    .:--~~: ,.   ;*XX####XXXxxxx*X%#Xxxxx+~;.         
-           .;~+xxxxxxxxX#%*==:. ,-~~--:   ,   :+XX#####XXxxxxxX%#Xxx*+~;.           
-             .;~+*xxxxxX###==;,;~++-;:    :,..=xXX####XXXxxxx#%#xx*+~;,             
-               .:-=+xxxXX#%*=~;=+++:.     -, ~*XX####XXXXxxX#%#x+=~;.               
-                  ,;~=*xX#%X+=-=++=.     .~ :*XX#####XXXxxX##x+~;,                  
-                    .,-~+*X#x*=++==.     .- =XX######XXXxx*=~;,.                    
-</pre>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+Electrical+Engineering+%40+IIT+Indore;Full-Stack+Developer+%7C+ML%2FAI+Enthusiast;Building+with+React%2C+Node.js+%26+PyTorch;Member%2C+Quantum+Computing+Club+%40+IIT+Indore" alt="Typing SVG" />
@@ -77,10 +25,46 @@
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td valign="middle">
+
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
 - 💻 Focused on **full-stack web development** and **applied ML**, building tools to solve real-world problems using technology.
 - 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
 - 🛠️ Currently polishing projects and resume for upcoming internship opportunities.
+
+</td>
+<td align="center" valign="middle">
+
+<pre>
+                    .::-:..                     
+               :===++++++***+=-:                
+             -+===+=::--==+=----=.              
+           :+++-::::::---:-::::::--:            
+          :===-=--=+*###*+===-::::-=            
+         .-:::=#@%##%%%%%##***=:::-.            
+         .::-**#***#%%#*+====+*+::::            
+          ::##++=:-=#%=---===**#-:-.            
+          *-@@%#+=+%@@+===++*##%=-*=            
+          ++@@@@@%@@@%**+#%%%%%%+=+:            
+          -*#@@%#+@*==--=+*####*+#=             
+           -=%%#--+*##*++--++*#*:.              
+             =##*%@%#*++++=++**:                
+              .+#@@@#**++=--==*.                
+               -=------:::--==++-               
+              .**++===--=====++%+::             
+            .-=%+***++++==+==+%#::::::..        
+       ..:---:=@+=++++++++==#@%-:::::::::-::..  
+  ..:------:::=@@*-==+++++*@@%=::::::::::-------
+--------::::::=%##%#*+#%%%%#%*:::::::::---------
+------------::-#%%@@@@@@@@%@%-:::-----:---------
+----------::::-#@@@@@@@@@@@@*-::-----:---------.
+</pre>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=2&section=header" width="100%" alt="divider" />
 
