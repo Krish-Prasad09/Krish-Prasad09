@@ -28,46 +28,46 @@
 <tr>
 <td valign="middle">
 
-- 🎓 B.Tech in **Electrical Engineering** at **IIT Indore**
+- 🎓 B.Tech student in **Electrical Engineering** at **IIT Indore**, currently exploring the intersection of technology and innovation.
 
-<br/>
+- 💻 Passionate about **Full-Stack Development**, **Backend Engineering** and **Applied Machine Learning**, building practical applications that solve real-world problems.
 
-- 💻 Focused on **full-stack web development** and **applied ML**, building tools to solve real-world problems using technology.
+- 🛠️ Built projects involving **AI-powered document processing**, **Speech Emotion Recognition (Wav2Vec2 + Whisper)**, and **real-time multiplayer applications (MERN + Socket.IO)**.
 
-<br/>
+- 🧠 Strong foundation in **Data Structures & Algorithms**, **OOP**, **Operating Systems** and **DBMS**.
 
-- 🧩 Active on [**LeetCode**](https://leetcode.com/u/krish_ji/), [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity), [**CodeChef**](https://www.codechef.com/users/krizzh), and [**Codeforces**](https://codeforces.com/profile/Krizzh9306), sharpening DSA and problem-solving
+- ⚡ Solved **700+ DSA problems** across [**LeetCode**](https://leetcode.com/u/krish_ji/), [**CodeChef**](https://www.codechef.com/users/krizzh), [**Codeforces**](https://codeforces.com/profile/Krizzh9306) and [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity).
 
-<br/>
-
-- 🛠️ Currently polishing projects and resume for upcoming internship opportunities.
+- 🎯 Currently seeking opportunities to contribute to impactful software engineering projects and grow as a developer.
 
 </td>
 <td align="center" valign="middle">
 
 <pre>
-                    .,:;;,.                     
-               :~~==++=++***=~-:                
-            .;+=~=+~;;-;==+=~~~~~,              
-           ;+++~:;;;;;;--;~;;;;;---;            
-          :~==~=--=*xxxxx+==~~;;;;-=            
-         .;-;;~X%#xXX####Xxx**=;;;;,            
-         .;;~*xxx**XX#X*+=~==+*+;;;,            
-          :;#x++=;-~X#=~-~~==*xX~:~.            
-          *-@%#x+=+#@%=====+*xX#=~x-            
-          ==%@@@@X%@@X**+x%#####==+:            
-          ;*X%%#x=%x==--==*xxXXx+x-             
-           ;~#X#-~+xxxx++--++xx*:.              
-             ~xx*#@#xx+=+===+**:                
-              ,+x%@%Xx*++=~~~=+.                
-               ;=-~~---;;;-~===+-               
-              ,***+==~~~~~===+=#+;:.            
-            ,;=X+***++++==+==+##;;;;;:,,        
-       .,:---;~@+~+++++=====x@#-;;;;;-;;;-;:,.  
-  .,;------;;;=@@+-~==++++*%@#=;;;;;;;;;------~~
-~~-------;--;;=%*X#x*+x###XX#x;;;;----;---------
-------------;;~X##%%@%@@%##%#-;;;-----;---~~~~~~
-----------;-;;;X@@@@@@%%@@@@+-;------;-~~~~----,
+                    .::;;,.                     
+              ,-~==+**+***x*+~-;.               
+            :~===**~;;~-=+++==~~=~.             
+          :=++=---;;:;;;--~~;;;;;--:,           
+         :=+==~:;-~~++++=~--;;;;;;;;=,          
+        ,--~~-**+=*XXX##XXx***+;;;---           
+        ;;-;-+#@@%#X#%%%##XXxxx=;;;;;           
+        :;;*xx*+==*x#Xx+=~~~==+xx;;;:           
+        .;~%X**+-;-=%X=~-~~==+xXX-:-:           
+        -=+@%#x+~=x@@#==~==+*xXX#~-x=           
+        ;**%@@@@@%@@@X**+X%%%%%X#==+~           
+         +*%%@%#=X#*+=~=++xXX#XXx+*+.           
+         -*X#X#*~X*++=~~~~-**xxx*=~,            
+           :XXX=-*%@@%X*+~~=+*xx-               
+            :*xX%@%x+==+*===++*+                
+              =+x%%%Xx*++~--~~=+                
+              ;+~--;;;;;;;-~~==+x-.             
+             ,****+==~~~~~=~==+=%=;:.           
+           ,;=X**x**+++===++==+%#;;;;;:,..      
+      .,:;--;=@==*****+++++=~x@%-;;;;;--;-;;:,. 
+  ,:;-------;=@@=-~==+++=+=*@@%=;;;;;;--;-----~~
+------------;=@##x==++*xxX##%@x;;;;--;;;--------
+-----------;;=#xX#%%#*%@@%##X#-;;;------;----~--
+-----------;;-X%%@@@@@@@@%@@@+-;;-------;~~~~~~~
 </pre>
 
 </td>
