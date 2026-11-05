@@ -12,6 +12,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kpkaportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-prasad-29469633b/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish_ji/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kpji?tab=activity)
@@ -39,6 +40,8 @@
 - ⚡ Solved **700+ DSA problems** across [**LeetCode**](https://leetcode.com/u/krish_ji/), [**CodeChef**](https://www.codechef.com/users/krizzh), [**Codeforces**](https://codeforces.com/profile/Krizzh9306) and [**GeeksforGeeks**](https://www.geeksforgeeks.org/profile/kpji?tab=activity).
 
 - 🎯 Currently seeking opportunities to contribute to impactful software engineering projects and grow as a developer.
+
+- 🌐 Check out my work at my portfolio: [**kpkaportfolio.vercel.app**](https://kpkaportfolio.vercel.app/)
 
 </td>
 <td align="center" valign="middle">
@@ -237,7 +240,7 @@ A full-stack AI career platform with a TypeScript + React.js frontend and Node.j
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/krish-prasad-29469633b/)
+🌐 [Portfolio](https://kpkaportfolio.vercel.app/) · 📫 [LinkedIn](https://www.linkedin.com/in/krish-prasad-29469633b/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
